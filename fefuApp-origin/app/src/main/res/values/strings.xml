@@ -1,0 +1,38 @@
+<resources>
+    <string name="register">Зарегистрироваться</string>
+    <string name="register_page">Регистрирация</string>
+    <string name="already_have_account">Уже есть аккаунт?</string>
+    <string name="bicycle">Велосипед</string>
+    <string name="running">Бег</string>
+    <string name="change_password_text">Изменить пароль</string>
+    <string name="logout_text">Выйти</string>
+    <string name="save_changes">Сохранить</string>
+    <string name="agree_changes_text">Принять</string>
+    <string name="agree_text">Нажимая на кнопку, вы соглашаетесь
+с политикой конфиденциальности и обработки персональных данных, а также принимаете пользовательское соглашение</string>
+    <string name="best_fitness">Пожалуй, лучший фитнесс трекер в ДВФУ</string>
+    <string name="created_by">Созданный студентами</string>
+    <string name="app_name">fefufit</string>
+    <string name="gender">Пол</string>
+    <string name="login_page">Вход</string>
+    <string name="login">Войти</string>
+    <string name="my_stats">Моя</string>
+    <string name="ppls_stats">Пользователей</string>
+    <string name="repeat_new_password_hint">Повторите новый пароль\n</string>
+    <string name="new_password_hint">Новый пароль\n</string>
+    <string name="old_password_hint">Старый пароль\n</string>
+    <string name="login_hint">Логин</string>
+    <string name="username_hint">Имя или никнейм</string>
+    <string name="password_hint">Пароль</string>
+    <string name="repeat_password_hint">Повторите пароль</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="other">Другое</string>
+    <string name="time_to">Время потренить</string>
+    <string name="time_to_under">Нажимай на кнопку ниже и начинаем трекать активность</string>
+    <string name="activity">Активность</string>
+    <string name="profile">Профиль</string>
+    <string name="start_activity_text">Погнали?</string>
+    <string name="start_activity">Начать</string>
+
+</resources>

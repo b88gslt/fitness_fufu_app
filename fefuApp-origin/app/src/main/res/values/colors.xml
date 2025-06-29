@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4B09F3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_bg">#F0F0F0F0</color>
+    <color name="gray">#808080</color>
+    <color name="line">#909090</color>
+    <color name="dark">#101010</color>
+    <color name="error">#B00020</color>
+    <color name="purple">#4B09F3</color>
+    <color name="square_box_line">#E0E0E0</color>
+
+</resources>

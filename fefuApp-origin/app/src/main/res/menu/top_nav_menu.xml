@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_my_activity"
+        android:title="@string/my_stats" />
+
+    <item
+        android:id="@+id/navigation_users_activity"
+        android:title="@string/ppls_stats" />
+</menu>
